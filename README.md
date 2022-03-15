@@ -1,4 +1,8 @@
-# ICJ Bootstrap Template
+# Project Description
+
+Meena Anderson Bootstrap practice! Started 7 March 2022, due at the end of this week (11/3?)
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
